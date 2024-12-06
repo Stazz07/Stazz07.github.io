@@ -2,7 +2,7 @@
   "name": "stazz07",
   "version": "1.0.0",
   "description": "Responsive portfolio website",
-  "main": "main.js",
+  "main": "index.html",
   "homepage": "https://stazz07.github.io",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
