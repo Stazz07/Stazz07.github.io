@@ -7,7 +7,7 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open index.html",
+            "name": "Open main.js",
             "file": "c:\\Users\\paulb\\Downloads\\Stazz07-main\\Stazz07-main\\index.html"
         }
     ]
